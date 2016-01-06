@@ -58,7 +58,7 @@ Here's a diagram of what the final result will look like:
 
 1. You need to have docker installed on one machine.
 2. Decide what Kubernetes version to use.  Set the `${K8S_VERSION}` variable to
-   a value such as "1.1.1".
+   a value such as "1.1.3".
 
 ### Run it
 
